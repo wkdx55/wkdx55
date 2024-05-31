@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @wkdx55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ajay
+- 👀 I’m interested in Computer science
+- 🌱 I’m currently learning Computer science
 
 <!---
 wkdx55/wkdx55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
